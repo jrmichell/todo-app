@@ -7,7 +7,7 @@ require (
 	github.com/gorilla/mux v1.8.1
 )
 
-require github.com/rs/cors v1.11.0 // indirect
+require github.com/rs/cors v1.11.0 
 
 require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
